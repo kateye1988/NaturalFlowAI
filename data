@@ -1,1 +1,32 @@
+# Dataset Information for ESL Sentiment Analysis
+
+1. TOEFL11 Corpus
+   - Description: Essays written by non-native English speakers taking the TOEFL exam.
+   - Source: https://www.cambridge.org/engage/api-gateway/toefl/assets/orp/resource/item/64003c4c1a682dceaeaa5f8f/original/toefl11.pdf
+   - Usage: Used to analyze sentiment and formal/informal writing tone.
+
+2. ICNALE (International Corpus Network of Asian Learners of English)
+   - Description: Essays from Asian English learners with proficiency levels.
+   - Source: http://language.sakura.ne.jp/icnale/
+   - Usage: Helps classify sentiment patterns in Asian ESL writing.
+
+3. Lang-8 Learner Corpus
+   - Description: Texts written by ESL learners, corrected by native speakers.
+   - Source: http://www.phontron.com/lang8/
+   - Usage: Used to compare raw vs. corrected sentiment differences.
+
+4. ICLE (International Corpus of Learner English)
+   - Description: Academic essays from ESL students of various backgrounds.
+   - Source: https://www.uclouvain.be/en/research-institutes/ilc/icle.html
+   - Usage: Formal vs. informal sentiment detection.
+
+5. ESL-4 Dataset
+   - Description: Four English proficiency tasks for reading, writing, listening.
+   - Source: https://www.nist.gov/itl/iad/mig/esl-4-corpus
+   - Usage: Sentiment analysis on ESL responses.
+
+6. Quora Question Pairs Dataset
+   - Description: A dataset of similar questions for text similarity.
+   - Source: https://www.kaggle.com/qcri/corpus
+   - Usage: Analyzing sentiment shifts in question rewording.
 
