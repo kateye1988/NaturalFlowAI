@@ -1,0 +1,13 @@
+ ESL Learner Corpora (Primary Data for Sentiment Analysis)
+Dataset	Description	Format	Source
+TOEFL11	12,100 essays from TOEFL test-takers across 11 native languages	.csv, .txt	Linguistic Data Consortium (LDC)
+ICNALE	Writing samples from Asian ESL learners	.csv, .txt, .xml	ICNALE Corpus
+Lang-8	ESL learners’ writing with native corrections	.csv, .json	Lang-8 Dataset
+ICLE	Essays from advanced ESL students with L1 backgrounds	.csv, .txt	University of Louvain
+ESL-4	ESL student essays with sentiment and grammar annotations	.csv	Research Papers & GitHub
+
+Dataset	Description	Format	Source
+GYAFC	Informal vs. formal sentence pairs	.csv, .txt	GYAFC Paper
+Yelp Sentiment	Reviews labeled as positive/negative	.csv, .json	Yelp Open Dataset
+Amazon Reviews	Product reviews with sentiment labels	.csv	Amazon Dataset
+Quora Pairs	Pairs of similar/dissimilar questions	.csv	Quora Dataset
