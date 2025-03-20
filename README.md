@@ -6,3 +6,23 @@ TOEFL11 Corpus – Contains non-native English essays.
 ICLE (International Corpus of Learner English)
 ICNALE (International Corpus Network of Asian Learners of English) – Learner essays with proficiency levels.
 Lang-8 Learner Corpus – Includes corrected texts from language learners
+
+
+Factors
+
+1. Emotional Influence on L2 Speaking
+Anxiety & Hesitation: Many L2 speakers experience speech anxiety, leading to pauses, filler words, or avoidance of complex sentence structures.
+Confidence & Fluency: As proficiency grows, speakers use smoother intonation, varied sentence structures, and more expressive language.
+Frustration & Errors: Negative emotions (like frustration) can result in more self-corrections, broken syntax, or avoidance strategies.
+2. Sentiment Analysis for L2 Speakers
+Sentiment analysis can help detect and understand emotions in spoken L2 communication, leading to valuable applications such as:
+
+Analyzing Speech Patterns: Identifying positive, neutral, or negative sentiments based on tone, fluency, and word choice.
+Detecting Anxiety or Confidence Levels: Tracking pitch variations, pauses, and sentence complexity to assess emotional states.
+Providing Feedback on Emotional Tone: Sentiment-aware AI can help learners adjust their speech by recognizing when they sound hesitant, assertive, or enthusiastic.
+3. Potential NLP Approach
+To build a sentiment analysis model for L2 speakers, you could:
+
+Collect ESL Speech Data: Use transcriptions and audio recordings of ESL learners speaking in different scenarios.
+Label Sentiments: Classify emotions like nervousness, confidence, frustration, and excitement.
+Train an NLP Model: Use a combination of speech recognition, sentiment analysis, and prosody detection to analyze emotional tone.
